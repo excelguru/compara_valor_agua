@@ -14,5 +14,5 @@ Sobre os termos de licença favor leia o arquivo __LICENSE__. Esta planilha é d
 
 Maiores informações em [ExcelGuru](http://www.excelguru.com.br).
 
->Ressaltamos que essa planilha foi desenvolvida para comprar a cobrança da __CAESB__ (Companhia de Saneamento Ambiental do Distrito Federal). Portanto, caso tente utilizar a planilha para a empresa de saneamento de seu estado, **será necessário alguns _ajustes nos valores_ cobrados pela empresa**, bem como a tabela de faixas e consumo e preços individuais. **[IMPORTANTE]**
+>Ressaltamos que essa planilha foi desenvolvida para comprar a cobrança da __CAESB__ (Companhia de Saneamento Ambiental do Distrito Federal). Portanto, caso tente utilizar a planilha para a empresa de saneamento de seu estado, **será necessário alguns _ajustes nos valores_ cobrados pela empresa**, bem como a tabela de faixas de consumo e preços individuais. **[IMPORTANTE]**
 
